@@ -1,3 +1,6 @@
 [submodule "game-of-life"]
 	path = game-of-life
 	url = https://github.com/fowles/ludum-dare-46-a-game-of-life.git
+[submodule "building-a-lock-free-mpmc-queue"]
+	path = building-a-lock-free-mpmc-queue
+	url = git@github.com:fowles/building-a-lock-free-mpmc-queue.git
