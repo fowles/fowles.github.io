@@ -4,3 +4,6 @@
 [submodule "building-a-lock-free-mpmc-queue"]
 	path = building-a-lock-free-mpmc-queue
 	url = https://github.com/fowles/building-a-lock-free-mpmc-queue.git
+[submodule "unleashing-protobuf-evolution"]
+	path = unleashing-protobuf-evolution
+	url = git@github.com:fowles/unleashing-protobuf-evolution.git
